@@ -17,7 +17,7 @@ conda env create -f environment.yaml
 Train the model by running the main.py directly. Remember to set the chosen dataset, model backbone and hyper-parameters in the script.Please use the following command to load demo data for testing whether the environment is successfully installed.
 
 ```python
-python RL_main.py --data_path ./data
+python main.py --data_path ./data
 ```
 
 optional arguments:  
