@@ -21,8 +21,8 @@ python main.py --data_path ./data
 ```
 
 optional arguments:  
-```--help```show this help message and exit  
-```--data_path```show the the path of data  
+```--help``` show this help message and exit  
+```--data_path``` show the the path of data  
 
 ## Note
 
